@@ -1,0 +1,26 @@
+ selenium java
+ testng
+ Apache poi(poi, poi-ooxml)
+ 
+ 
+ To Run Through Pom.xml we need to add plugins
+ // maven compiler
+ 2.2 maven sufire with suitexmxl
+ 
+ 
+ Run through command line
+ to do this we need to install maven on windows
+ 
+ Commands:
+ cd -->go to project location
+ mvn clean install
+ 
+ 
+ Running through bat.file
+ create a run.bat file and copy above 2 commands in that and save 
+ 
+ Jenkins:
+ download all maven plugins
+ create itme eith maven
+ and provide pom full path
+ clean install
